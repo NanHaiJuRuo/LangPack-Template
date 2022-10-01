@@ -34,4 +34,4 @@ Markdown language: zh-cn
 那么，文件名为 `Extension zh-cn langPack @1.0.0 .ccx`  
 注意，必须把后缀改为 `ccx`  
 
-恭喜，你的汉化包制作完成(≧▽≦)
+恭喜，你的语言包制作完成(≧▽≦)

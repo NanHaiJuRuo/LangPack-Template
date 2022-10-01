@@ -1,0 +1,1 @@
+module.exports=class e extends self.ClipCCExtension.Extension {}

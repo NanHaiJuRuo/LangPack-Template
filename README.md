@@ -5,7 +5,7 @@ Markdown language: zh-cn
 请在 `build` 文件夹中操作内容。  
 将 `info.json` 按照以下格式完善  
 假设扩展名称是 `Extension` ，想要的语言是 `zh-cn`  
-`"id":"ExtensionName.langPack.zh.cn"`  
+`"id":"Extension.langPack.zh.cn"`  
 
 假设作者有 XiaoMing 和 XiaoHong  
 `"author":"XiaoMing , XiaoHong"`  
@@ -18,8 +18,8 @@ Markdown language: zh-cn
 保存，回到 `build` 文件夹，打开 `locales` 文件夹，将 `en.json` 内填入汉化包的名称与介绍。  
 假设名称为 `Extension zh-cn langPack` ，介绍为 `Extension language pack`  
 ```
-{"ExtensionName.langPack.zh.cn.name": "Extension zh-cn langPack",
-"ExtensionName.langPack.zh.cn.description": "Extension language pack"}
+{"Extension.langPack.zh.cn.name": "Extension zh-cn langPack",
+"Extension.langPack.zh.cn.description": "Extension language pack"}
 ```
 
 保存，回到 `locales` 文件夹，创建你想要的语言文件，对应上编辑器对应的语言名称。  

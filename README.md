@@ -1,6 +1,6 @@
 Markdown language: zh-cn
 
-这是一个语言包扩展的模板。
+这是一个clipcc语言包扩展的模板。
 
 请在 `build` 文件夹中操作内容。  
 将 `info.json` 按照以下格式完善  
